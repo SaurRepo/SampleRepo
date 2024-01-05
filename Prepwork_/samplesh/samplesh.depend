@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698728753 source:c:\users\admin\documents\prepwork_\samplesh\main.c
+	<stdio.h>
+	<stdlib.h>
+

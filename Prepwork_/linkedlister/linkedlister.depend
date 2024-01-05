@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699542309 source:c:\users\admin\documents\prepwork_\linkedlister\main.c
+	<stdio.h>
+	<stdlib.h>
+

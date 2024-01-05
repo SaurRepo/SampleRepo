@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699264331 source:c:\users\admin\documents\prepwork_\checking_prime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
